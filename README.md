@@ -69,6 +69,8 @@ Testing the webserver.
 
 
 ## OUTPUT:
+![Alt text](<Screenshot 2023-10-25 100333.png>)
+![Alt text](<Screenshot 2023-10-25 100417.png>)
 
 
 ## RESULT:
