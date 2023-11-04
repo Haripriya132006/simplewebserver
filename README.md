@@ -69,8 +69,10 @@ Testing the webserver.
 
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-10-25 100333.png>)
-![Alt text](<Screenshot 2023-10-25 100417.png>)
+![Screenshot 2023-10-25 100333](https://github.com/Haripriya132006/simplewebserver/assets/144870747/13c5674f-9ab7-4836-a5ec-952ea12354fc)
+
+
+![Screenshot 2023-10-25 100417](https://github.com/Haripriya132006/simplewebserver/assets/144870747/a7aef806-2f65-4a31-a038-b70681b3c96f)
 
 
 ## RESULT:
