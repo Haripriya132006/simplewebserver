@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date: 25.20.2023
 
 ## AIM:
 To develop a simple webserver to serve html pages.
@@ -21,6 +21,51 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
+```
+<html>
+   <title>revenue of top software companies</title>
+       <body bgcolor="cyan">
+          <table border="6" cellspacing="4" cellpadding="4">
+              <caption>Top Five Revenue Generating Software Company   [from lowest to highest ]</caption>
+                  <tr>
+                    <th>S.no</th>
+                    <th>Company</th>
+                    <th>Revenue</th>
+                 </tr>
+
+                 <tr>
+                   <th>1</th>
+                   <td>Symantec</td>
+                   <td>5.6 billion</td>
+                </tr>
+
+                 <tr>
+                   <th>2</th>
+                   <td>SAP</td>
+                   <td>6.4 billion</td>
+                </tr>
+
+                 <tr>
+                   <th>3</th>
+                   <td>IBM</td>
+                   <td>29.1 billion</td>
+                </tr>
+
+                 <tr>
+                   <th>4</th>
+                   <td>Oracle</td>
+                   <td>29.6 billion</td>
+                </tr>
+
+                 <tr>
+                   <th>5</th>
+                   <td>Microsoft</td>
+                   <td>65 billion</td>
+                </tr>
+          </table>
+       </body>
+</html>
+```
 
 
 ## OUTPUT:
